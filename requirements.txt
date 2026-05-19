@@ -2,11 +2,10 @@ streamlit
 yfinance
 pandas
 numpy
-tensorflow
 scipy
 scikit-learn
 plotly
 requests
-lxml
-html5lib
 beautifulsoup4
+html5lib
+tensorflow-cpu
