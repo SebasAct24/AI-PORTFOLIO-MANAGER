@@ -32,14 +32,14 @@ The terminal acts as a digital Value Investor. Every candidate must pass a stric
 ## Dashboard Preview
 
 #### *Institutional Allocation View*
-![Portfolio Allocation]<img width="1437" height="721" alt="Captura de pantalla 2026-05-21 133842" src="https://github.com/user-attachments/assets/1dc53028-bdbd-4417-9e58-6439d65796af" />
+<img width="1437" height="721" alt="Captura de pantalla 2026-05-21 133842" src="https://github.com/user-attachments/assets/1dc53028-bdbd-4417-9e58-6439d65796af" />
 
 
 #### *Risk Analysis & Correlation Heatmap*
-![Heatmap]<img width="1414" height="655" alt="Captura de pantalla 2026-05-21 134001" src="https://github.com/user-attachments/assets/5e22968f-0a55-4366-a5ac-840b64bb7931" />
+<img width="1414" height="655" alt="Captura de pantalla 2026-05-21 134001" src="https://github.com/user-attachments/assets/5e22968f-0a55-4366-a5ac-840b64bb7931" />
 
 #### *AI Performance vs Benchmarks*
-![Backtest Chart]<img width="1436" height="514" alt="Captura de pantalla 2026-05-21 133445" src="https://github.com/user-attachments/assets/ad1609db-b545-4004-8dd3-3ee534bea5e7" />
+<img width="1436" height="514" alt="Captura de pantalla 2026-05-21 133445" src="https://github.com/user-attachments/assets/ad1609db-b545-4004-8dd3-3ee534bea5e7" />
 
 ---
 
