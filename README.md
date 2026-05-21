@@ -57,3 +57,12 @@ The terminal acts as a digital Value Investor. Every candidate must pass a stric
 1. Clone the repository:
    ```bash
    git clone https://github.com/SebasAct24/AI-PORTFOLIO-MANAGER.git
+pip install -r requirements.txt
+streamlit run app.py
+
+
+### **Disclaimer**
+This software is for educational and research purposes only. It does not constitute financial advice. Quantitative models involve significant risk, and historical performance does not guarantee future results.
+
+
+Developed by Sebastián García de la Paz - https://www.linkedin.com/in/sebastiangarciadelapaz/
