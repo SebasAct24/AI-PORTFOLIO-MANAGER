@@ -2,7 +2,7 @@
 
 An institutional-grade portfolio management system that merges **Deep Learning**, **Modern Portfolio Theory (PMPT)**, and **Fundamental Analysis**. This terminal automates the process of stock picking, risk allocation, and portfolio recalibration across global markets.
 
-## 🚀 Core Features
+## Core Features
 
 ### 1. Predictive Engine (6D LSTM)
 Unlike traditional models that only look at price, this terminal uses a **6-Dimensional Long Short-Term Memory (LSTM)** neural network to forecast cumulative returns. The model analyzes:
